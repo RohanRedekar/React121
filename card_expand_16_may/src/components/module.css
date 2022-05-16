@@ -1,0 +1,55 @@
+.container {
+  background-color: white;
+  width: 250px;
+  margin: auto;
+  border: 1px solid gray;
+  margin-top: 100px;
+}
+
+.img_div {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.flexbox {
+  display: flex;
+  border-bottom: 1px solid rgb(220, 218, 218);
+  padding: 7px 25px;
+}
+
+.desc h2,
+p {
+  margin: 3px 15px;
+}
+
+.desc p:nth-child(3) {
+  -webkit-animation: slide-down 2s ease-out;
+  -moz-animation: slide-down 2s ease-out;
+}
+
+@-webkit-keyframes slide-down {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes slide-down {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
