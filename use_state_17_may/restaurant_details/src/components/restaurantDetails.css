@@ -1,0 +1,67 @@
+.container {
+  width: 460px;
+  height: 140px;
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px auto;
+}
+
+img {
+  width: 100px;
+  height: 110px;
+}
+
+p,
+h2 {
+  margin: 2px auto;
+}
+
+p {
+  font-size: 13px;
+}
+
+.details {
+  width: 260px;
+  text-align: left;
+}
+
+.feedbacks {
+  width: 70px;
+  height: 110px;
+  text-align: top;
+}
+
+.image {
+  width: 120px;
+}
+
+.gray {
+  color: gray;
+}
+
+.rating {
+  width: 50px;
+  background-color: rgb(114, 160, 43);
+  color: white;
+  border-radius: 10px;
+  margin-left: auto;
+}
+
+.vr {
+  text-align: right;
+}
+
+select {
+  width: 120px;
+  height: 30px;
+  font-size: 17px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+label {
+    margin-right: 10px;
+}

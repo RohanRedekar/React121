@@ -1,0 +1,109 @@
+{
+  "restaurants": [
+    {
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true,
+        "all": true
+      },
+      "ratings": "4.5",
+      "votes": "466",
+      "reviews": "743",
+      "cost_for_one": "500",
+      "cost_for_two": 1000,
+      "name": "Hotel Tibet",
+      "url": "https://data.tibettravel.org/assets/images/Tibet-bhutan-tour/indian-food-in-Lhasa.jpg",
+      "categories": [
+        "thali",
+        "sweet"
+      ],
+      "id": 1
+    },
+    {
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true,
+        "all": true
+      },
+      "ratings": "4.2",
+      "votes": "466",
+      "reviews": "743",
+      "cost_for_one": "480",
+      "cost_for_two": 960,
+      "name": "Thai",
+      "url": "https://www.holidify.com/images/cmsuploads/compressed/Thai_green_chicken_curry_and_roti_20200131181242.jpg",
+      "categories": ["thai", "sweet", "dessert"],
+      "id": 2
+    },
+    {
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false,
+        "all": true
+      },
+      "ratings": "4.2",
+      "votes": "466",
+      "reviews": "743",
+      "cost_for_one": "200",
+      "cost_for_two": 400,
+      "categories": ["Desserts"],
+      "name": "Thiland",
+      "url": "https://images.unsplash.com/photo-1602253057119-44d745d9b860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlzaHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 3
+    },
+    {
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false,
+        "all": true
+      },
+      "ratings": "3.8",
+      "votes": "466",
+      "reviews": "522",
+      "cost_for_one": "250",
+      "cost_for_two": 500,
+      "categories": ["Desserts", "Asian"],
+      "name": "Hotel Aadi",
+      "url": "https://www.blueosa.com/wp-content/uploads/2020/01/the-best-top-10-indian-dishes.jpg",
+      "id": 4
+    },
+    {
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false,
+        "all": true
+      },
+      "ratings": "4.7",
+      "votes": "468",
+      "reviews": "745",
+      "cost_for_one": "300",
+      "cost_for_two": 600,
+      "categories": ["Desserts", "Asian", "Indian"],
+      "name": "Indian hotel",
+      "url": "https://media.istockphoto.com/photos/indian-food-curry-butter-chicken-palak-paneer-chiken-tikka-biryani-picture-id1127563435?k=20&m=1127563435&s=612x612&w=0&h=QHLBmju9WPt9d_N7cE-R6Qz3UqYs9PlsLWm3a87Ksjc=",
+      "id": 5
+    },
+    {
+      "name": "Aashray",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=556,505",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false,
+        "all": true
+      },
+      "ratings": "4.3",
+      "votes": "466",
+      "reviews": "734",
+      "cost_for_one": "320",
+      "cost_for_two": 640,
+      "categories": ["Desserts", "sweet", "Indian"],
+      "id": 6
+    }
+  ]
+}
